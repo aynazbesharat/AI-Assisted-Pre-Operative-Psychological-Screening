@@ -1,0 +1,16 @@
+name: psych_screening_flutter
+publish_to: 'none'
+description: Pre-Operative Psychological Screening Flutter frontend
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  file_saver: ^0.2.14
+
+flutter:
+  uses-material-design: true

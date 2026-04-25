@@ -1,0 +1,169 @@
+{
+   "checksum": "a3dac6c2befed6fa6cb2edfa12a56cef",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13379163551402886",
+               "date_last_used": "0",
+               "guid": "19b47480-4d09-4c7f-867a-ee35a7a0bf63",
+               "id": "11",
+               "name": "Dell Auction",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.dellauction.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13379163551402886",
+               "date_last_used": "0",
+               "guid": "96e25b51-e5f3-4f38-9dda-3e9fbbab9bfe",
+               "id": "12",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.dell.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13379163551402886",
+               "date_last_used": "0",
+               "guid": "8a148897-f529-47b9-a707-9e5f36743ce7",
+               "id": "13",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.dell.com/support/home",
+               "visit_count": 0
+            } ],
+            "date_added": "13379164065740382",
+            "date_last_used": "0",
+            "date_modified": "13379164065740382",
+            "guid": "74033288-e82c-470c-9427-f7df80b699aa",
+            "id": "10",
+            "name": "Dell",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13379445513938997",
+            "date_last_used": "0",
+            "guid": "1961b2fe-ae62-487a-b31b-a7ca8f6dd3de",
+            "id": "14",
+            "name": "Software | About us",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.uottawa.ca/about-us/information-technology/services/software",
+            "visit_count": 0
+         }, {
+            "date_added": "13138008439397054",
+            "date_last_used": "0",
+            "guid": "311f59a6-9366-424f-ba1c-c506fe087da5",
+            "id": "15",
+            "name": "فاصله شهرها و مسیریابی روی نقشه | باحساب",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.bahesab.ir/map/routing-city-distance/",
+            "visit_count": 0
+         }, {
+            "date_added": "13145978046215469",
+            "date_last_used": "0",
+            "guid": "38df2bd5-d019-464f-9c79-f1284138b975",
+            "id": "16",
+            "name": "Lack Of Oxygen While Sleeping: Symptoms, Effects Of Low Oxygen Levels",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.tandurust.com/health-faq-7/lack-of-oxygen-while-sleeping.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13420184508221235",
+         "date_last_used": "0",
+         "date_modified": "13379445513938997",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13381623741622346",
+            "date_last_used": "0",
+            "guid": "e29258f2-2295-49b3-948f-d1d56ffc2f7d",
+            "id": "6",
+            "name": "ChatGPT - symptoms-test project2",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/g/g-p-678ac3de65e8819187e7fb71ff6d7def-symptoms-test-project2/c/678ac626-babc-800f-9971-d6028e016f84",
+            "visit_count": 0
+         }, {
+            "children": [  ],
+            "date_added": "13402515913067097",
+            "date_last_used": "0",
+            "date_modified": "13402515913067097",
+            "guid": "1d3aeb25-1aae-4ff1-91bf-a3cc8f84f2b5",
+            "id": "7",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13381623741000000",
+               "date_last_used": "0",
+               "guid": "10e2f48f-d4a5-48d5-a650-f5d8bd713337",
+               "id": "9",
+               "name": "ChatGPT - symptoms-test project2",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://chatgpt.com/g/g-p-678ac3de65e8819187e7fb71ff6d7def-symptoms-test-project2/c/678ac626-babc-800f-9971-d6028e016f84",
+               "visit_count": 0
+            } ],
+            "date_added": "13402515913067361",
+            "date_last_used": "0",
+            "date_modified": "13402515913067361",
+            "guid": "4e2436e9-429a-48d5-b3f6-c8a54771b285",
+            "id": "8",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13420184508221235",
+         "date_last_used": "0",
+         "date_modified": "13381623741622346",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13420184508221235",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13420184508221235",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "4",
+         "name": "Workspaces",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCJx9PXWdAQAAKg4QABgBIAAoBjAAOABAABIAKhhPVWxpYnNqZ0pjcGhyaTN5bWxTSllRPT1IA6AGDBKtAQgQEqgBChx0NHBoM0ltSTcvMUZYL3VHOUdYL2taSTVRWGM9EiQzOGRmMmJkNS1kMDE5LTQ2NGYtOWM3OS1mMTI4NDEzOGI5NzUYACAAKAAw5PamqdEyOI77pqnRMkCO+6ap0TJKHGlnSFFWSHh6Z3d0TnRNSXRoOHRRUk5mUFRCND1aHyId6DZiMFAwNU5KTDBOenNtWFpPWC8xWDlRaVhRTT1lAAAAAMI+AmAFEq0BCA8SqAEKHGpaa09pNk85a09HZGU1aFZBYUo0WkgxRWRoZz0SJDMxMWY1OWE2LTkzNjYtNDI0Zi1iYTFjLWM1MDZmZTA4N2RhNRgAIAAoADDl9qap0TI4s/umqdEyQLP7pqnRMkocU0VCQm5KM1hFQlZzanhHemd6eUI3a0p6OFJVPVofIh3RZ1c3aVZLSlU3NE9MaVo1bk9FVFlabDlaRlpZPWUAAAAAwj4CYAUSrQEIDhKoAQocWUdmUlNRc3B4bUkzSWYya216ZFhDc0gwMWMwPRIkMTk2MWIyZmUtYWU2Mi00ODdhLWIzMWItYTdjYThmNmRkM2RlGAAgACgAMPuxlv2cMzi+rLuGwTJAvqy7hsEyShxaTW1jdHp0QnJ6TWVEVGVsMStaczlYRUhvbjg9Wh8iHaI3L3dxNzIrS3Y1MjNpaWtwaS9hTUMyVUxubDA9ZXMJF1vCPgJgBRKsAQgGEqcBChwzQ3E2bkJrWTJQL0lzcjVPMktubEdyOTVxK009EiRlMjkyNThmMi0yMjk1LTQ5YjMtOTQ4Zi1kMWQ1NmZmYzJmN2QYACAAKAAwzIGnqdEyONGCp6nRMkDRgqep0TJKHG94TzI5TGVLM2RVREpjczdoS2l6MmtPMnlpRT1aHiIcMzZhM0pGK2k1VjNJR08zTnBJaExKVXlhQnJzPWULYJpHwj4CYAUSrQEIDRKoAQocRDJBdWRLdFhHanBRUG81QURIUXBCTGtMZGdBPRIkOGExNDg4OTctZjUyOS00N2I5LWE3MDctOWU1ZjM2NzQzY2U3GAAgACgAMLiiu4bBMjiLrLuGwTJAi6y7hsEyShw3Vi9OeUpyYUY2UXdPSEhTc08xMDRqYkNWWnc9Wh8iHblsM293T2JRS2VBTlRaTkFnNXFmRUNZZmVVWTg9ZQAAAADCPgJgBRKsAQgMEqcBChxtTWxxZDJNTEd3VEY0ZHBJa05mclNjM29kSEk9EiQ5NmUyNWI1MS1lNWYzLTRmMzgtOWRkYS0zZTlmYmJhYjliZmUYACAAKAAwvLTey5UzOO6ru4bBMkDuq7uGwTJKHGcrRnlSZDh0d00rNWtCVXJOdUNzbXhDclpXcz1aHiIccmJrbkF5YkNRSUpDNXJlMjNEUTRhcnRaUGY0PWW3KVMZwj4CYAUSjgEIBBKJAQocd1JCclpMKzZQQTlhdktnak5QN0pYRExjZnZzPRIkMTM1MmIyMmMtZTRmZS01MTc2LWE0YzUtNmY3OGM1MDIzNmI4GAAgACgAMIOr3ZuVMzj0q92blTNA9Kvdm5UzShxubXg2NXNRRHZ4SThUZ0VlditBK250dG9TbjQ9WgBlAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDU2Y2FmOWM0LTMyYjItNTc0OS04NDA0LTM4MGIxOTliYjU0YhgAIAAoADDR2L6ZvjI4nNy+mb4yQJzcvpm+MkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ5MjFmY2YxOS0zZDJhLTU3YWQtYjYxNy1lMDhkMGMyZTI2NDkYACAAKAAw0ti+mb4yOLPcvpm+MkCz3L6ZvjJKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEICRKnAQocbVJPdk5xd3pMSWdOK2xFMWdMaWJac0dqbjZZPRIkMTBlMmY0OGYtZDRhNS00OGQ1LWE2NTAtZjVkOGJkNzEzMzM3GAAgACgAMP6v85uVMzjryvOblTNA68rzm5UzShx2UDc0U1R0ajlOb3l4dm9VV05GSlZJSW0yU0E9Wh4iHDk1MWpJUUpuNklDaURCWXJ4OGlHdHBNN1BPRT1lC2CaR8I+AmAFEq0BCAgSqAEKHHlSekdlK1hmb0RvM2FOdGs4L21pWnZkdm5KMD0SJDRlMjQzNmU5LTQyOWEtNDhkNS1iM2Y2LWM4YTU0NzcxYjI4NRgAIAAoADD9r/OblTM4rMrzm5UzQKzK85uVM0occjd1aTVWTVB1dEY4RWt4U01zd1dOWHpOc0VFPVofIh26OVVoWmVwb3NHOVJBaVpBQWFZSnF1cjlvU3lVPWUAAAAAwj4CYAASrAEICxKnAQocMDVaK0pHZ3RzZm54eEx3ajF1cEFYdGIyQWljPRIkMTliNDc0ODAtNGQwOS00YzdmLTg2N2EtZWUzNWE3YTBiZjYzGAAgACgAMLaiu4bBMjjVq7uGwTJA1au7hsEyShxjdkYzTHplL1M3SkFoOXhxUlZiUUh3NG1hZWs9Wh4iHFI1TllOSkFHV3ptMFBWVlR5ODNsL1E0L2JsRT1lAAAAAMI+AmAFEqwBCAoSpwEKHEtHMVc0UXJTSFIxcmg4djd2MzFXSHpueUZocz0SJDc0MDMzMjg4LWU4MmMtNDcwYy05NDI3LWY3ZGY4MGI2OTlhYRgAIAAoADC1oruGwTI4vKu7hsEyQLyru4bBMkocemJQeEFpUmpKdTlodnczUmJuYXBCOW43ZmdFPVoeIhxFVWtBMnRKNU5IbkhOdDl0L3JPcXQ3S3FIaFU9ZQAAAADCPgJgABKsAQgHEqcBChxWcEE2WnUrckE3NE5laXR5bWpyMzFRdXlaMnc9EiQxZDNhZWIyNS0xYWFlLTRmZjEtOTFiZi1hM2NjOGY4NGYyYjUYACAAKAAw/K/zm5UzOO3J85uVM0DtyfOblTNKHG96ckFHRDJpY3NxSFVjS1Q3QUxXS2owUE93UT1aHiIcdU53WGt4Ly8zQm9WZmVVaElvbXZqS2VzRzE0PWUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMTYzMjM5NGQtMTY2MS01ODk5LTljZjMtZjVmYjExYjI1NGRlGAAgACgAMNfYvpm+Mjjh3L6ZvjJA4dy+mb4yShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
